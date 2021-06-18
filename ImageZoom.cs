@@ -13,7 +13,7 @@ namespace MDCollection
      /// <summary>
      /// returns the zoomed rectangle to zoom an image
      /// </summary>
-     /// <param name="imageRectangle">display rectangle of given image</param>
+     /// <param name="imageRectangle">display rectangle to draw image</param>
      /// <param name="mousepoint">current position of mouse</param>
      /// <param name="zoomFactor">positive value to zoom in and negetive value to zoom out </param>
      /// <returns></returns>
