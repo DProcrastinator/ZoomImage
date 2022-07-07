@@ -11,7 +11,7 @@ namespace MDCollection
   public static  class ImageZoom
     {
      /// <summary>
-     /// returns the zoomed rectangle to zoom an image
+     /// returns the zoomed rectangle in which image it contains will be zoomed
      /// </summary>
      /// <param name="imageRectangle">display rectangle to draw image</param>
      /// <param name="mousepoint">current position of mouse</param>
@@ -53,10 +53,6 @@ namespace MDCollection
 
         }
 
-        public static void Test()
-        {
-
-        }
-
+        
     }
 }
